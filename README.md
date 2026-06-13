@@ -1,16 +1,23 @@
 <p align="center">
-  <img src="banner.JPG" width="100%">
+  <img src="banner.JPG" width="220">
 </p>
 
 # Audrey Rah – Publications
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-7501-7809">
-    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" width="20">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" width="18">
   </a>
   <strong>ORCID iD:</strong>
   <a href="https://orcid.org/0000-0001-7501-7809">0000-0001-7501-7809</a>
 </p>
+
+
+Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
+
+**ORCID Profile:** https://orcid.org/0000-0001-7501-7809
+
+---
 
 
 Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
