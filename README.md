@@ -12,17 +12,13 @@
   <a href="https://orcid.org/0000-0001-7501-7809">0000-0001-7501-7809</a>
 </p>
 
-
 Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
 
 **ORCID Profile:** https://orcid.org/0000-0001-7501-7809
+
+**Google Scholar Profile:** https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=GtzZbNsAAAAJ
 
 ---
-
-
-Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
-
-**ORCID Profile:** https://orcid.org/0000-0001-7501-7809
 
 ---
 
