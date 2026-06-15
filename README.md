@@ -2,6 +2,18 @@
   <img src="banner.JPG" width="220">
 </p>
 
+## Research Areas
+
+- Artificial Intelligence Governance
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Generative AI
+- Cybersecurity Governance
+- Digital Transformation
+- Virtual Reality
+- Human Factors and Stress Detection
+- Sentiment Analysis and Natural Language Processing
+
 # Audrey Rah – Publications
 
 <p align="center">
@@ -95,16 +107,28 @@ https://www.researchgate.net/publication/404348824_Cybersecurity_Risk_Controls_i
 **Research Square:** https://www.researchsquare.com/article/rs-9839978/v1
 **SSRN:** https://ssrn.com/abstract=6839946
 
-## 15. Governance Human Resistance in Digital Transformation
+## 15. Retrieval-Augmented Generation (RAG), Generative AI, and Agentic AI Governance: An Integrated Enterprise Governance Prioritization Architecture
+
+**Authors:** Audrey Rah, Sven Hahues
+
+**DOI:** https://doi.org/10.21203/rs.3.rs-10012178/v1
+
+**Research Square:** https://www.researchsquare.com/article/rs-10012178/v1
+
+**Published:** June 15, 2026
+
+**License:** CC BY 4.0
+
+## 16. Governance Human Resistance in Digital Transformation
 
 **DOI:** https://doi.org/10.5281/zenodo.20237672
 
-## 16. A Governance-Oriented Analytical Research Paper on Digital Transformation and Cybersecurity
+## 17. A Governance-Oriented Analytical Research Paper on Digital Transformation and Cybersecurity
 
 **DOI:** https://doi.org/10.21203/rs.3.rs-9734788/v1
 **Research Square:** https://www.researchsquare.com/article/rs-9734788/v1
 
-## 17. Enterprise Generative AI: A Systematic Review of Security Risks and Governance
+## 18. Enterprise Generative AI: A Systematic Review of Security Risks and Governance
 
 **DOI:** https://doi.org/10.21203/rs.3.rs-9890887/v1
 **Research Square:** https://www.researchsquare.com/article/rs-9890887/v1
