@@ -132,3 +132,9 @@ https://www.researchgate.net/publication/404348824_Cybersecurity_Risk_Controls_i
 
 **DOI:** https://doi.org/10.21203/rs.3.rs-9890887/v1
 **Research Square:** https://www.researchsquare.com/article/rs-9890887/v1
+
+## 19. AI and Quantum Trading Agents: Cybersecurity, Governance, and Regulatory Challenges in Financial Decision-Making
+
+**Author:** Audrey Rah
+**DOI:** https://doi.org/10.21203/rs.3.rs-10253799/v1
+**Research Square:** https://www.researchsquare.com/article/rs-10253799/v1
