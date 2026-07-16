@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.JPG" width="220">
+<strong>20 Publications</strong> • Artificial Intelligence • Enterprise AI • Governance • Digital Transformation • Virtual Reality
 </p>
 
 ## Research Areas
@@ -138,3 +138,11 @@ https://www.researchgate.net/publication/404348824_Cybersecurity_Risk_Controls_i
 **Author:** Audrey Rah
 **DOI:** https://doi.org/10.21203/rs.3.rs-10253799/v1
 **Research Square:** https://www.researchsquare.com/article/rs-10253799/v1
+
+## 20. Agent-to-Agent Business Ecosystems: Delegated Commercial Agency, Governance, and a Reference Architecture for Autonomous Enterprise Commerce
+
+**Author:** Audrey Rah
+**DOI:** https://doi.org/10.2139/ssrn.7125338
+**SSRN:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7125338
+**Published:** July 14, 2026
+**Keywords:** Agent-to-Agent Business Ecosystems, Delegated Commercial Agency, Enterprise AI, Agentic AI, Governance, Autonomous Commerce, Business Ecosystems, Institutional Trust
