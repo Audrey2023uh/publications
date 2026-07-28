@@ -146,3 +146,10 @@ https://www.researchgate.net/publication/404348824_Cybersecurity_Risk_Controls_i
 **SSRN:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7125338
 **Published:** July 14, 2026
 **Keywords:** Agent-to-Agent Business Ecosystems, Delegated Commercial Agency, Enterprise AI, Agentic AI, Governance, Autonomous Commerce, Business Ecosystems, Institutional Trust
+
+## 21. Semantic Tracing in LLM-Based Multi-Agent Systems Using LangChain, LangGraph, and LangSmith for AI Governance
+
+**Author:** Audrey Rah
+**DOI:** https://doi.org/10.21203/rs.3.rs-10485157/v1
+**Research Square:** https://www.researchsquare.com/article/rs-10485157/v1
+**Keywords:** Large Language Models (LLMs), Multi-Agent Systems, Semantic Tracing, LangChain, LangGraph, LangSmith, AI Governance, Agentic AI, Observability, Explainable AI, Enterprise AI
