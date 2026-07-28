@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.JPG" alt="Audrey Rah Publications Banner" width="60%">
+  <img src="./banner.JPG" alt="Audrey Rah Publications Banner" width="50%">
 </p>
 
 <h1 align="center">Audrey Rah – Publications</h1>
