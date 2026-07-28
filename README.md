@@ -1,9 +1,26 @@
 
+<p align="center">
+  <img src="./banner.JPG" alt="Audrey Rah Publications Banner" width="100%">
+</p>
+
+<h1 align="center">Audrey Rah – Publications</h1>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0001-7501-7809">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--7501--7809-A6CE39?logo=orcid&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?user=GtzZbNsAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+<strong>21 Publications</strong> • Artificial Intelligence • Enterprise AI • Governance • Digital Transformation • Virtual Reality
+</p>
+
+Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
+
 ---
-
-## Research Areas
-
-![Banner](banner.JPG)
 
 ## Research Areas
 
@@ -16,33 +33,6 @@
 - Virtual Reality
 - Human Factors and Stress Detection
 - Sentiment Analysis and Natural Language Processing
-
-# Audrey Rah – Publications
-
-<h1 align="center">Audrey Rah – Publications</h1>
-
-<p align="center">
-  <a href="https://orcid.org/0000-0001-7501-7809">
-    <img src="https://img.shields.io/badge/ORCID-0000--0001--7501--7809-A6CE39?logo=orcid&logoColor=white"
-         alt="Audrey Rah ORCID">
-  </a>
-  <a href="https://scholar.google.com/citations?user=GtzZbNsAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Audrey%20Rah-4285F4?logo=googlescholar&logoColor=white"
-         alt="Audrey Rah Google Scholar">
-  </a>
-</p>
-
-<p align="center">
-  <strong>21 Publications</strong> • Artificial Intelligence • Enterprise AI • Governance • Digital Transformation • Virtual Reality
-</p>
-
-Research publications, journal articles, conference papers, and preprints authored or co-authored by Audrey Rah.
-
-**ORCID Profile:** https://orcid.org/0000-0001-7501-7809
-
-**Google Scholar Profile:** https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=GtzZbNsAAAAJ
-
----
 
 ---
 
